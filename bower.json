@@ -1,0 +1,23 @@
+{
+  "name": "bootstrap4education",
+  "description": "This is project for experiments and education with Bootstrap4. It's my own project - not for global usage.",
+  "main": "gulpfile.js",
+  "authors": [
+    "Denis aka quotzon"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/src/bower_components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+	"jquery": "^3.3.1",
+    "bootstrap": "^4.0.0"
+  }
+}
